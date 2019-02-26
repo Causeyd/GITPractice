@@ -1,2 +1,2 @@
-# Git Repo
+# My Git Repo
 ## Daniel Causey
